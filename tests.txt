@@ -13,10 +13,10 @@ while(x< 0);
 int x = 10 ;
 
 if( x > 0 ){
-    cout << "Positive";
+    cout << "good";
 }
 else{
-    cout << "Negative";
+    cout << "nope";
 }
 
 int x = 10 ;
