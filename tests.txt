@@ -27,6 +27,6 @@ while( x < 20 ){
 }
 
 
-int sara ( int x, int y) {
+int esraa ( int x, int y) {
    c = p;
 }
