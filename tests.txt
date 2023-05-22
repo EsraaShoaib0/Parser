@@ -1,0 +1,32 @@
+for( int i = 0; i<5; i++)
+{
+  x = 9;
+}
+
+
+do{
+   x= 10;
+}
+while(x< 0);
+
+
+int x = 10 ;
+
+if( x > 0 ){
+    cout << "Positive";
+}
+else{
+    cout << "Negative";
+}
+
+int x = 10 ;
+
+while( x < 20 ){
+	cout << x;
+	x = x + 1;
+}
+
+
+int sara ( int x, int y) {
+   c = p;
+}
